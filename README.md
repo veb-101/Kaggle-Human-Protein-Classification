@@ -7,7 +7,8 @@
 ---
 
 * Competition link: [Zero to GANs - Human Protein Classification](https://www.kaggle.com/c/jovian-pytorch-z2g)
-* My kaggle kernel: [Transfer learning using EfficientNet models](https://www.kaggle.com/veb101/transfer-learning-using-efficientnet-models)
+* My kaggle kernel (might differ): [Transfer learning using EfficientNet models](https://www.kaggle.com/veb101/transfer-learning-using-efficientnet-models)
+* Latest notebook: [Transfer learning using EfficientNet models](https://jovian.ml/vaibhav-singh-3001/human-protein-competition)
 ## Introduction
 
 In this kaggle in-class competition, we will develop models capable of classifying mixed patterns of proteins in microscope images. Images visualizing proteins in cells are commonly used for biomedical research, and these cells could hold the key for the next breakthrough in medicine. However, thanks to advances in high-throughput microscopy, these images are generated at a far greater pace than what can be manually evaluated. Therefore, the need is greater than ever for automating biomedical image analysis to accelerate the understanding of human cells and disease.
