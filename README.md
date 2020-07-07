@@ -42,5 +42,6 @@ This is a **multilabel image classification** problem, where each image can belo
 
 ---
 
+## Training Metrics
 
-
+![metrics](metrics.png)
